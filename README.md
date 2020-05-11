@@ -1,7 +1,6 @@
-node.js中文资料导航
-====
+#node.js中文资料导航
 
-##Node.js 
+##Node.js
 + [HomePage](http://www.nodejs.org/)
 + [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
 + [Io.js中文文档](http://davidcai1993.gitbooks.io/iojs-api-doc-in-chinese/content/)
@@ -28,7 +27,7 @@ node.js中文资料导航
 + [百万级并发 Node.js也能行](http://www.csdn.net/article/2012-08-21/2808861)
 + [高性能Node.js：来自LinkedIn Mobile的10条优化建议](http://www.rockdai.com/?p=596)
 + [Kraken：改变PayPal开发文化的Node.js框架](http://www.csdn.net/article/2013-11-25/2817617-PayPal-Kraken-Nodejs-Framework)
-+ [Groupon抛弃Rails，转向Node.js](http://www.iteye.com/news/28358) 
++ [Groupon抛弃Rails，转向Node.js](http://www.iteye.com/news/28358)
 + [PayPal为什么从Java迁移到Node.js，性能提高一倍，文件代码减少44%](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
 
 ##经验分享
@@ -81,7 +80,7 @@ node.js中文资料导航
 + [使用node-mysql中的连接池](http://cnodejs.org/topic/51676ac26d38277306fe7c85)
 + [mysql自动断开解决办法](http://cnodejs.org/topic/516b77e86d382773064266df)
 
-###Mongodb 
+###Mongodb
 
 + [node-mongodb-native](https://github.com/mongodb/node-mongodb-native)
 + [mongoose](https://github.com/LearnBoost/mongoose)
@@ -97,7 +96,7 @@ node.js中文资料导航
 ####eventproxy
 + [HomePage](https://github.com/JacksonTian/eventproxy)
 
-####Q Promise 异步模式 
+####Q Promise 异步模式
 + [HomePage](https://github.com/kriskowal/q)
 + [在Node.js 中用 Q 实现Promise – Callbacks之外的另一种选择](http://www.ituring.com.cn/article/54547)
 
@@ -205,7 +204,7 @@ node.js中文资料导航
 
 ##node.js中文书
 
-###[了不起的Node.js](http://book.douban.com/subject/25767596/)  
+###[了不起的Node.js](http://book.douban.com/subject/25767596/)
 ![](http://img3.douban.com/mpic/s27132823.jpg)
 
 ###[九浅一深Node.js](http://book.douban.com/subject/25768396/) pu大作品
